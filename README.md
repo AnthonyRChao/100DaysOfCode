@@ -66,7 +66,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 7: Wednesday, April 3, 2019
 
 [x] [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)\
-[x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)\
+[x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 
 **Thoughts:**
@@ -99,6 +99,6 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)\
 [ ] [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)\
 [ ] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
-[ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+[ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
 [ ] [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
 [ ] [Introduction to Algorithms - Recursion I](https://leetcode.com/explore/learn/card/recursion-i/)
