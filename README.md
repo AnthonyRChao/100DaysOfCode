@@ -74,6 +74,9 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 8: Thursday, April 4, 2019
 
+[x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)\
+[ ] [46. Permutations](https://leetcode.com/problems/permutations/)
+
 **Thoughts:**
 
 ---
@@ -98,6 +101,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)\
 [ ] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)\
 [ ] [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)\
+[ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)\
+[ ] [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)\
 [ ] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
 [ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
 [ ] [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
