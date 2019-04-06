@@ -79,6 +79,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 ---
 ### Day 9: Friday, April 5, 2019
+
+[x] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)\
 [ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
 [ ] [78. Subsets](https://leetcode.com/problems/subsets/)
 
