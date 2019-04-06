@@ -73,7 +73,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 8: Thursday, April 4, 2019
 
-[x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)\
+[x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 **Thoughts:**
 
