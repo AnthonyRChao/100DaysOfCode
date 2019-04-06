@@ -68,19 +68,19 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)\
 [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-
 **Thoughts:**
 
 ---
 ### Day 8: Thursday, April 4, 2019
 
 [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)\
-[ ] [46. Permutations](https://leetcode.com/problems/permutations/)
 
 **Thoughts:**
 
 ---
 ### Day 9: Friday, April 5, 2019
+[ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
+[ ] [78. Subsets](https://leetcode.com/problems/subsets/)
 
 **Thoughts:**
 
