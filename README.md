@@ -43,7 +43,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 4: Sunday, March 31, 2019
 
-[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 2](https://www.coursera.org/specializations/data-structures-algorithms)
+[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 1](https://www.coursera.org/specializations/data-structures-algorithms)
 
 **Thoughts:** I struggled to get the tree height problem working. Will re-visit.
 
@@ -88,6 +88,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 ---
 ### Day 10: Saturday, April 6, 2019
+
+[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 2](https://www.coursera.org/specializations/data-structures-algorithms)
 
 **Thoughts:**
 
