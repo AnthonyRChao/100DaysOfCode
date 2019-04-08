@@ -53,14 +53,10 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [Integer between 1 and 1000 with greatest steps to reach 1 based on the Collatz Conjecture](https://repl.it/@AnthonyChao/maxcollatz)\
 [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-**Thoughts:**
-
 ---
 ### Day 6: Tuesday, April 2, 2019
 
 [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-
-**Thoughts:**
 
 ---
 ### Day 7: Wednesday, April 3, 2019
@@ -68,39 +64,50 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)\
 [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-**Thoughts:**
-
 ---
 ### Day 8: Thursday, April 4, 2019
 
 [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-**Thoughts:**
-
 ---
 ### Day 9: Friday, April 5, 2019
 
-[x] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)\
-[ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
-[ ] [78. Subsets](https://leetcode.com/problems/subsets/)
-
-**Thoughts:**
+[x] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
 ---
 ### Day 10: Saturday, April 6, 2019
 
 [x] [UCSD DS & A Coursera Specialization - Data Structures - Week 2](https://www.coursera.org/specializations/data-structures-algorithms)
 
-**Thoughts:**
-
 ---
 ### Day 11: Sunday, April 7, 2019
 
-**Thoughts:**
+---
+### Day 12: Monday, April 8, 2019
+
+---
+### Day 13: Tuesday, April 9, 2019
+
+---
+### Day 14: Wednesday, April 10, 2019
+
+---
+### Day 15: Thursday, April 11, 2019
+
+---
+### Day 16: Friday, April 12, 2019
+
+---
+### Day 17: Saturday, April 13, 2019
+
+---
+### Day 18: Sunday, April 14, 2019
 
 ---
 ### TODO
 
+[ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
+[ ] [78. Subsets](https://leetcode.com/problems/subsets/)\
 [ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)\
 [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)\
 [ ] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)\
