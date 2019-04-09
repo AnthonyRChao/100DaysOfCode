@@ -82,6 +82,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 11: Sunday, April 7, 2019
 
+[x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
 ---
 ### Day 12: Monday, April 8, 2019
 
@@ -96,10 +98,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [HackerRank - Mini-Max Sum]()\
 [x] [HackerRank - Birthday Cake Candles]()\
 [x] [HackerRank - Time Conversion]()\
-[x] [HackerRank - Grading Students]()
-
-
-
+[x] [HackerRank - Grading Students]()\
+[x] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
 ---
 ### Day 13: Tuesday, April 9, 2019
 
@@ -123,7 +123,6 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 [ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
 [ ] [78. Subsets](https://leetcode.com/problems/subsets/)\
-[ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)\
 [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)\
 [ ] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)\
 [ ] [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)\
