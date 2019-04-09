@@ -103,6 +103,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 [ ] [Introduction to Data Structure - Array and String](https://leetcode.com/explore/learn/card/array-and-string/)\
 [x] [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)\
+[x] [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)\
 [ ] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 
 ---
