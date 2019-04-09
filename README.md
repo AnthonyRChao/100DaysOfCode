@@ -85,18 +85,18 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 12: Monday, April 8, 2019
 
-[x] [HackerRank - Solve Me First]\
-[x] [HackerRank - Simple Array Sum]\
-[x] [HackerRank - Compare the Triplets]\
-[x] [HackerRank - Let's Echo]\
-[x] [HackerRank - A Very Big Sum]\
-[x] [HackerRank - Diagonal Difference]\
-[x] [HackerRank - Plus Minus]\
-[x] [HackerRank - Staircase]\
-[x] [HackerRank - Mini-Max Sum]\
-[x] [HackerRank - Birthday Cake Candles]\
-[x] [HackerRank - Time Conversion]\
-[x] [HackerRank - Grading Students]
+[x] [HackerRank - Solve Me First]()\
+[x] [HackerRank - Simple Array Sum]()\
+[x] [HackerRank - Compare the Triplets]()\
+[x] [HackerRank - Let's Echo]()\
+[x] [HackerRank - A Very Big Sum]()\
+[x] [HackerRank - Diagonal Difference]()\
+[x] [HackerRank - Plus Minus]()\
+[x] [HackerRank - Staircase]()\
+[x] [HackerRank - Mini-Max Sum]()\
+[x] [HackerRank - Birthday Cake Candles]()\
+[x] [HackerRank - Time Conversion]()\
+[x] [HackerRank - Grading Students]()
 
 
 
