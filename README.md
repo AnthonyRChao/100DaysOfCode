@@ -2,7 +2,7 @@
 
 [Personal Website](https://anthonyrchao.github.io)\
 [LeetCode Profile](https://leetcode.com/anthonychao/)\
-[HackerRank Profile][(https://www.hackerrank.com/AnthonyChao)
+[HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
 ### Day 0: Wednesday, March 27, 2019
