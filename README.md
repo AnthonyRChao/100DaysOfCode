@@ -101,14 +101,15 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [HackerRank - Time Conversion]()\
 [x] [HackerRank - Grading Students]()
 
-[ ] [Introduction to Data Structure - Array and String](https://leetcode.com/explore/learn/card/array-and-string/)\
 [x] [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)\
 [x] [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)\
 [x] [66. Plus One](https://leetcode.com/problems/plus-one/)\
-[ ] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 
 ---
 ### Day 13: Tuesday, April 9, 2019
+
+[ ] [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)\
+[ ] [Introduction to Data Structure - Array and String](https://leetcode.com/explore/learn/card/array-and-string/)
 
 ---
 ### Day 14: Wednesday, April 10, 2019
@@ -136,6 +137,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)\
 [ ] [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)\
 [ ] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
-[ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
+[ ] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
 [ ] [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
+[ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
 [ ] [Introduction to Algorithms - Recursion I](https://leetcode.com/explore/learn/card/recursion-i/)
