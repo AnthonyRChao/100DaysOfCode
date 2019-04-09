@@ -1,4 +1,4 @@
-# 100DaysOfCode - Log
+# 100DaysOfCode
 
 [Personal Website](https://anthonyrchao.github.io)\
 [LeetCode Profile](https://leetcode.com/anthonychao/)\
