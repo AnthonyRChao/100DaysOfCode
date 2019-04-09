@@ -1,4 +1,4 @@
-# 100 Days Of LeetCode - Log
+# 100 Days Of Code - Log
 
 [Personal Website](https://anthonyrchao.github.io)\
 [LeetCode Profile](https://leetcode.com/anthonychao/)\
@@ -100,7 +100,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [HackerRank - Birthday Cake Candles]()\
 [x] [HackerRank - Time Conversion]()\
 [x] [HackerRank - Grading Students]()\
-[x] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
+[x] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 
 ---
 ### Day 13: Tuesday, April 9, 2019
