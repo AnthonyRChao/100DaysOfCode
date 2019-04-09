@@ -1,7 +1,7 @@
 # 100 Days Of LeetCode - Log
 
 [Personal Website](https://anthonyrchao.github.io)\
-[LeetCode Profile](https://leetcode.com/anthonychao/)
+[LeetCode Profile](https://leetcode.com/anthonychao/)\
 [HackerRank Profile][(https://www.hackerrank.com/AnthonyChao)
 
 ---
