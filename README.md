@@ -139,6 +139,9 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)\
 [ ] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
 [ ] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)\
+[ ] [267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)\
+[ ] [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)\
+
 [ ] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
 [ ] [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
 [ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
