@@ -109,7 +109,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 13: Tuesday, April 9, 2019
 
 [x] [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)\
-[ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)\
+[x] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)\
 [ ] [Introduction to Data Structure - Array and String](https://leetcode.com/explore/learn/card/array-and-string/)
 
 ---
