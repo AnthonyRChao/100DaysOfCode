@@ -119,13 +119,17 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 15: Thursday, April 11, 2019
 
-[ ] [Introduction to Data Structure - Array and String](https://leetcode.com/explore/learn/card/array-and-string/)
+[x] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 
 ---
 ### Day 16: Friday, April 12, 2019
 
+[x] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+
 ---
 ### Day 17: Saturday, April 13, 2019
+
+[ ] [Introduction to Data Structure - Array and String](https://leetcode.com/explore/learn/card/array-and-string/)
 
 ---
 ### Day 18: Sunday, April 14, 2019
