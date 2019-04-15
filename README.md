@@ -140,6 +140,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 19: Monday, April 15, 2019
 
 [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+[x] [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ---
 ### Day 20: Tuesday, April 16, 2019
