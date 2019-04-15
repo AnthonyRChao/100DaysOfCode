@@ -143,6 +143,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)\
 [x] [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 [x] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+[x] [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
 
 ---
 ### Day 20: Tuesday, April 16, 2019
