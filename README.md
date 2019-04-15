@@ -129,12 +129,35 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 17: Saturday, April 13, 2019
 
-[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 3](https://www.coursera.org/specializations/data-structures-algorithms)
+[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 3, Lectures](https://www.coursera.org/specializations/data-structures-algorithms)
 
 ---
 ### Day 18: Sunday, April 14, 2019
 
-[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 3](https://www.coursera.org/specializations/data-structures-algorithms)
+[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 3, Problems](https://www.coursera.org/specializations/data-structures-algorithms)
+
+---
+### Day 19: Monday, April 15, 2019
+
+[x] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+
+---
+### Day 20: Tuesday, April 16, 2019
+
+---
+### Day 21: Wednesday, April 17, 2019
+
+---
+### Day 22: Thursday, April 18, 2019
+
+---
+### Day 23: Friday, April 19, 2019
+
+---
+### Day 24: Saturday, April 20, 2019
+
+---
+### Day 25: Monday, April 21, 2019
 
 ---
 ### TODO
