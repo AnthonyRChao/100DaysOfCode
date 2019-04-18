@@ -156,6 +156,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 21: Wednesday, April 17, 2019
 
 [x] [189. Rotate Array](https://leetcode.com/problems/rotate-array/)\
+[x] [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)\
 [ ] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)\
 [ ] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/solution/)
 
