@@ -163,7 +163,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 22: Thursday, April 18, 2019
 
 [x] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)\
-[x] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/solution/)
+[x] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ---
 ### Day 23: Friday, April 19, 2019
