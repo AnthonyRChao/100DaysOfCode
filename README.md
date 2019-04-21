@@ -173,6 +173,11 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 24: Saturday, April 20, 2019
 
+[x] [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)\
+[x] [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)\
+[ ] [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)\
+[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+
 ---
 ### Day 25: Monday, April 21, 2019
 
