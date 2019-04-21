@@ -174,12 +174,43 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 24: Saturday, April 20, 2019
 
 [x] [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)\
-[x] [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)\
-[ ] [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)\
-[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+[x] [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 
 ---
-### Day 25: Monday, April 21, 2019
+### Day 25: Sunday, April 21, 2019
+
+---
+### Day 26: Monday, April 22, 2019
+
+---
+### Day 27: Tuesday, April 23, 2019
+
+---
+### Day 28: Wednesday, April 24, 2019
+
+---
+### Day 29: Thursday, April 25, 2019
+
+---
+### Day 30: Friday, April 26, 2019
+
+---
+### Day 31: Saturday, April 27, 2019
+
+---
+### Day 32: Sunday, April 28, 2019
+
+---
+### Day 33: Monday, April 29, 2019
+
+---
+### Day 34: Tuesday, April 30, 2019
+
+---
+### Day 35: Wednesday, May 1, 2019
+
+---
+### Day 36: Thursday, May 2, 2019
 
 ---
 ### TODO
@@ -195,6 +226,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)\
 [ ] [267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)\
 [ ] [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)\
+[ ] [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)\
+[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)\
 [ ] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
 [ ] [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
 [ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
