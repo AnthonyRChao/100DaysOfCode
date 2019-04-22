@@ -179,6 +179,10 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 25: Sunday, April 21, 2019
 
+[x] [UCSD DS & A Coursera Specialization - Data Structures - Week 4, Problems](https://www.coursera.org/specializations/data-structures-algorithms)\
+[x] [705. Design HashSet](https://leetcode.com/problems/design-hashset/)\
+[ ] [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
+
 ---
 ### Day 26: Monday, April 22, 2019
 
