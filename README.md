@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+Thanks for stopping by. 
+
+You'll find my day-by-day coding progress below (mostly LeetCode, with some Coursera and HackerRank sprinkled in.)
+
 [Personal Website](https://anthonyrchao.github.io)\
 [LeetCode Profile](https://leetcode.com/anthonychao/)\
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
