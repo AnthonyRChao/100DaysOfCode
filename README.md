@@ -206,7 +206,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [136. Single Number](https://leetcode.com/problems/single-number/)\
 [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)\
 [x] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)\
-[x] [202. Happy Number](https://leetcode.com/problems/happy-number/)
+[x] [202. Happy Number](https://leetcode.com/problems/happy-number/)\
+[x] [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 ---
 ### Day 27: Tuesday, April 23, 2019
