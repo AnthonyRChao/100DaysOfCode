@@ -5,6 +5,21 @@
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
+### LeetCode Data Structure and Algorithm Fundamental Explore Cards
+[x] [Array and String](https://leetcode.com/explore/learn/card/array-and-string/)\
+[ ] [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)\
+[ ] [Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
+[ ] [Queue and Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
+[ ] [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
+[ ] [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)\
+[ ] [N-ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)\
+[ ] [Trie](https://leetcode.com/explore/learn/card/trie/)\
+[ ] [Recursion](https://leetcode.com/explore/learn/card/recursion-i/)\
+[ ] [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)\
+[ ] [Decision Tree](https://leetcode.com/explore/learn/card/decision-tree/)
+
+
+---
 ### Day 0: Wednesday, March 27, 2019
 
 [x] [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)\
@@ -236,8 +251,4 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)\
 [ ] [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)\
 [ ] [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)\
-[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)\
-[ ] [Introduction to Data Structure - Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
-[ ] [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
-[ ] [Introduction to Data Structure - Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
-[ ] [Introduction to Algorithms - Recursion I](https://leetcode.com/explore/learn/card/recursion-i/)
+[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
