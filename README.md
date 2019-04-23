@@ -5,7 +5,7 @@
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-### LeetCode Learn - Data Structure and Algorithms(https://leetcode.com/explore/learn/)
+### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
 [x] [Array and String](https://leetcode.com/explore/learn/card/array-and-string/)\
 [ ] [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)\
 [ ] [Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
