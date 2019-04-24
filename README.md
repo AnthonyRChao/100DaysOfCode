@@ -212,6 +212,9 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 27: Tuesday, April 23, 2019
 
+[x] [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)\
+[x] [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
+
 ---
 ### Day 28: Wednesday, April 24, 2019
 
