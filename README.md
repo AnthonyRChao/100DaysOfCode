@@ -218,6 +218,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 28: Wednesday, April 24, 2019
 
+[ ] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
 ---
 ### Day 29: Thursday, April 25, 2019
 
