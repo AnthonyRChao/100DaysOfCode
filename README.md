@@ -259,4 +259,5 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)\
 [ ] [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)\
 [ ] [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)\
-[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+[ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)\
+[ ] [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
