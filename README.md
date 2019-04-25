@@ -2,11 +2,12 @@
 
 Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and HackerRank sprinkled in).
 
-LeetCode Problem Counter: **77/200**
-
 [Personal Website](https://anthonyrchao.github.io)\
 [LeetCode Profile](https://leetcode.com/anthonychao/)\
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
+
+---
+LeetCode Problem Counter: **77/200** (as of 4/24/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
