@@ -227,8 +227,9 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 29: Thursday, April 25, 2019
 
-[ ] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)\
-[ ] [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+[x] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)\
+[x] [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)\
+[ ] []()
 
 ---
 ### Day 30: Friday, April 26, 2019
