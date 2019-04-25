@@ -222,11 +222,13 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 28: Wednesday, April 24, 2019
 
 [x] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)\
-[x] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)\
-[ ] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+[x] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 ---
 ### Day 29: Thursday, April 25, 2019
+
+[ ] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)\
+[ ] [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
 ---
 ### Day 30: Friday, April 26, 2019
