@@ -229,10 +229,12 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 [x] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)\
 [x] [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)\
-[ ] []()
+[x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ---
 ### Day 30: Friday, April 26, 2019
+
+[ ] [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 
 ---
 ### Day 31: Saturday, April 27, 2019
