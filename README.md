@@ -234,7 +234,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 30: Friday, April 26, 2019
 
-[ ] [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)\
+[x] [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)\
 [ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ---
