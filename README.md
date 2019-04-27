@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **77/200** (as of 4/24/19)
+LeetCode Problem Counter: **81/200** (as of 4/27/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -235,6 +235,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 30: Friday, April 26, 2019
 
 [x] [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)\
+[x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
 [ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ---
