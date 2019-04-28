@@ -235,14 +235,17 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 30: Friday, April 26, 2019
 
 [x] [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)\
-[x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
-[ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+[x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ---
 ### Day 31: Saturday, April 27, 2019
 
+[x] [UCSD DS & A Coursera Specialization - Binary Search Trees - Week 5, Lectures](https://www.coursera.org/specializations/data-structures-algorithms)
+
 ---
 ### Day 32: Sunday, April 28, 2019
+
+[ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ---
 ### Day 33: Monday, April 29, 2019
