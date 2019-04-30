@@ -250,11 +250,13 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 33: Monday, April 29, 2019
 
-[ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)\
+[x] [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)\
 [x] [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
 ---
 ### Day 34: Tuesday, April 30, 2019
+
+[ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ---
 ### Day 35: Wednesday, May 1, 2019
