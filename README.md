@@ -256,7 +256,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 34: Tuesday, April 30, 2019
 
-[ ] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+[x] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ---
 ### Day 35: Wednesday, May 1, 2019
