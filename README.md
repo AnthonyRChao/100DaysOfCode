@@ -261,6 +261,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 35: Wednesday, May 1, 2019
 
+[x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)
+
 ---
 ### Day 36: Thursday, May 2, 2019
 
