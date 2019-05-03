@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **82/200** (as of 4/29/19)
+LeetCode Problem Counter: **85/200** (as of 5/3/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -265,6 +265,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 ---
 ### Day 36: Thursday, May 2, 2019
+
+[x] [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 ---
 ### TODO
