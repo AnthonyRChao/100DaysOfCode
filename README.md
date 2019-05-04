@@ -269,6 +269,11 @@ The key insight to check if a Binary Tree is Univalued is ...
 [x] [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 ---
+### Day 37: Friday, May 3, 2019
+
+[x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+---
 ### TODO
 
 [ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
