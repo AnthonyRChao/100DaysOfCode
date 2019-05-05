@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **85/200** (as of 5/3/19)
+LeetCode Problem Counter: **88/200** (as of 5/4/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -272,6 +272,32 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 37: Friday, May 3, 2019
 
 [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+---
+### Day 38: Saturday, May 4, 2019
+
+[x] [5051. Valid Boomerang](https://leetcode.com/contest/weekly-contest-135/problems/valid-boomerang/)\
+[x] [5050. Binary Search Tree to Greater Sum Tree](https://leetcode.com/contest/weekly-contest-135/problems/binary-search-tree-to-greater-sum-tree/)\
+[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
+[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
+
+---
+### Day 39: Sunday, May 5, 2019
+
+---
+### Day 40: Monday, May 6, 2019
+
+---
+### Day 41: Tuesday, May 7, 2019
+
+---
+### Day 42: Wednesday, May 8, 2019
+
+---
+### Day 43: Thursday, May 9, 2019
+
+---
+### Day 44: Friday, May 10, 2019
 
 ---
 ### TODO
