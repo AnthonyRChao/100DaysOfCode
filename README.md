@@ -277,15 +277,18 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 38: Saturday, May 4, 2019
 
 [x] [5051. Valid Boomerang](https://leetcode.com/contest/weekly-contest-135/problems/valid-boomerang/)\
-[x] [5050. Binary Search Tree to Greater Sum Tree](https://leetcode.com/contest/weekly-contest-135/problems/binary-search-tree-to-greater-sum-tree/)\
-[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
-[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
+[x] [5050. Binary Search Tree to Greater Sum Tree](https://leetcode.com/contest/weekly-contest-135/problems/binary-search-tree-to-greater-sum-tree/)
 
 ---
 ### Day 39: Sunday, May 5, 2019
 
+[x] [UCSD DS & A Coursera Specialization - Binary Search Trees - Week 6, Lectures & Problems](https://www.coursera.org/specializations/data-structures-algorithms)
+
 ---
 ### Day 40: Monday, May 6, 2019
+
+[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
+[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
 
 ---
 ### Day 41: Tuesday, May 7, 2019
