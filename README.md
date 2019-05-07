@@ -287,7 +287,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 40: Monday, May 6, 2019
 
-[ ] [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
+[x] [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
 
 ---
 ### Day 41: Tuesday, May 7, 2019
