@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **89/200** (as of 5/6/19)
+LeetCode Problem Counter: **90/200** (as of 5/7/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -292,11 +292,13 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 41: Tuesday, May 7, 2019
 
-[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
-[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
+[x] [288. Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)
 
 ---
 ### Day 42: Wednesday, May 8, 2019
+
+[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
+[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
 
 ---
 ### Day 43: Thursday, May 9, 2019
