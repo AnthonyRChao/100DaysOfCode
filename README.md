@@ -12,7 +12,7 @@ LeetCode Problem Counter: **90/200** (as of 5/7/19)
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
 [x] [Array and String](https://leetcode.com/explore/learn/card/array-and-string/)\
-[ ] [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)\
+[x] [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)\
 [ ] [Linked List](https://leetcode.com/explore/learn/card/linked-list/)\
 [ ] [Queue and Stack](https://leetcode.com/explore/learn/card/queue-stack/)\
 [ ] [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)\
@@ -297,8 +297,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 42: Wednesday, May 8, 2019
 
-[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
-[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
+[x] [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
 ---
 ### Day 43: Thursday, May 9, 2019
@@ -322,4 +321,6 @@ The key insight to check if a Binary Tree is Univalued is ...
 [ ] [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)\
 [ ] [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)\
 [ ] [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)\
-[ ] [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+[ ] [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)\
+[ ] [5047. Minimum Score Triangulation of Polygon](https://leetcode.com/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon/)\
+[ ] [5049. Moving Stones Until Consecutive II](https://leetcode.com/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii/)
