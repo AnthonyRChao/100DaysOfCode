@@ -302,7 +302,7 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 43: Thursday, May 9, 2019
 
-[x] [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
+[x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 ---
 ### Day 44: Friday, May 10, 2019
