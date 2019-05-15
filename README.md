@@ -322,10 +322,12 @@ None
 ---
 ### Day 47: Monday, May 13, 2019
 
-[x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+None
 
 ---
 ### Day 48: Tuesday, May 14, 2019
+
+[x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
 ---
 ### Day 49: Wednesday, May 15, 2019
