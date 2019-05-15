@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **92/200** (as of 5/14/19)
+LeetCode Problem Counter: **93/200** (as of 5/14/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -302,7 +302,8 @@ The key insight to check if a Binary Tree is Univalued is ...
 ---
 ### Day 43: Thursday, May 9, 2019
 
-[x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+[x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)\
+[x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ---
 ### Day 44: Friday, May 10, 2019
