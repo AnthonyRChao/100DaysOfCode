@@ -1,5 +1,5 @@
 # 100DaysOfCode
-Test
+
 Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and HackerRank sprinkled in).
 
 [Personal Website](https://anthonyrchao.github.io)\
@@ -306,6 +306,77 @@ The key insight to check if a Binary Tree is Univalued is ...
 
 ---
 ### Day 44: Friday, May 10, 2019
+
+None
+
+---
+### Day 45: Saturday, May 11, 2019
+
+None
+
+---
+### Day 46: Sunday, May 12, 2019
+
+None
+
+---
+### Day 47: Monday, May 13, 2019
+
+[x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+
+---
+### Day 48: Tuesday, May 14, 2019
+
+---
+### Day 49: Wednesday, May 15, 2019
+
+---
+### Day 50: Thursday, May 16, 2019
+
+---
+### Day 51: Friday, May 17, 2019
+
+---
+### Day 52: Saturday, May 18, 2019
+
+---
+### Day 53: Sunday, May 19, 2019
+
+---
+### Day 54: Monday, May 20, 2019
+
+---
+### Day 55: Tuesday, May 21, 2019
+
+---
+### Day 56: Wednesday, May 22, 2019
+
+---
+### Day 57: Thursday, May 23, 2019
+
+---
+### Day 58: Friday, May 24, 2019
+
+---
+### Day 59: Saturday, May 25, 2019
+
+---
+### Day 60: Sunday, May 26, 2019
+
+---
+### Day 61: Monday, May 27, 2019
+
+---
+### Day 62: Tuesday, May 28, 2019
+
+---
+### Day 63: Wednesday, May 29, 2019
+
+---
+### Day 64: Thursday, May 30, 2019
+
+---
+### Day 65: Friday, May 31, 2019
 
 ---
 ### TODO
