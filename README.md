@@ -303,7 +303,6 @@ The key insight to check if a Binary Tree is Univalued is ...
 ### Day 43: Thursday, May 9, 2019
 
 [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)\
-[x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ---
 ### Day 44: Friday, May 10, 2019
@@ -328,10 +327,13 @@ None
 ---
 ### Day 48: Tuesday, May 14, 2019
 
-[x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+[x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)\
+[x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ---
 ### Day 49: Wednesday, May 15, 2019
+
+[ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ---
 ### Day 50: Thursday, May 16, 2019
