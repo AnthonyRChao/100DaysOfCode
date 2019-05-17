@@ -386,6 +386,9 @@ None
 ### Day 65: Friday, May 31, 2019
 
 ---
+### Day 66: Saturday, June 1, 2019
+
+---
 ### TODO
 
 [ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
