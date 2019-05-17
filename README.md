@@ -333,10 +333,12 @@ None
 ---
 ### Day 49: Wednesday, May 15, 2019
 
-[ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+[x] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ---
 ### Day 50: Thursday, May 16, 2019
+
+[x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 ---
 ### Day 51: Friday, May 17, 2019
