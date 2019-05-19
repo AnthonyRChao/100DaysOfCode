@@ -348,6 +348,8 @@ None
 ---
 ### Day 52: Saturday, May 18, 2019
 
+[x] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
 ---
 ### Day 53: Sunday, May 19, 2019
 
