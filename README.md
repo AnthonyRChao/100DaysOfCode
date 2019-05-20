@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **95/200** (as of 5/16/19)
+LeetCode Problem Counter: **97/200** (as of 5/19/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -352,6 +352,8 @@ None
 
 ---
 ### Day 53: Sunday, May 19, 2019
+
+[x] [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
 ---
 ### Day 54: Monday, May 20, 2019
