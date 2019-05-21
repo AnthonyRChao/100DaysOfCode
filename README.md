@@ -358,6 +358,8 @@ None
 ---
 ### Day 54: Monday, May 20, 2019
 
+[x] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
 ---
 ### Day 55: Tuesday, May 21, 2019
 
