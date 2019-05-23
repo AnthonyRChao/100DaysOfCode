@@ -1,5 +1,4 @@
 # 100DaysOfCode
-C
 
 Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and HackerRank sprinkled in).
 
@@ -364,8 +363,12 @@ None
 ---
 ### Day 55: Tuesday, May 21, 2019
 
+None
+
 ---
 ### Day 56: Wednesday, May 22, 2019
+
+[x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 ---
 ### Day 57: Thursday, May 23, 2019
