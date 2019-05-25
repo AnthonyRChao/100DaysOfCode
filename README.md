@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **100/200** (as of 5/23/19)
+LeetCode Problem Counter: **101/200** (as of 5/24/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -378,6 +378,8 @@ None
 
 ---
 ### Day 58: Friday, May 24, 2019
+
+[x] [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 
 ---
 ### Day 59: Saturday, May 25, 2019
