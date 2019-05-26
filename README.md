@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **101/200** (as of 5/24/19)
+LeetCode Problem Counter: **102/200** (as of 5/25/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -383,6 +383,8 @@ None
 
 ---
 ### Day 59: Saturday, May 25, 2019
+
+[x] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ---
 ### Day 60: Sunday, May 26, 2019
