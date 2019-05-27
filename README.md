@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **102/200** (as of 5/25/19)
+LeetCode Problem Counter: **103/200** (as of 5/26/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -388,6 +388,8 @@ None
 
 ---
 ### Day 60: Sunday, May 26, 2019
+
+[x] [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
 ---
 ### Day 61: Monday, May 27, 2019
