@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **104/200** (as of 5/27/19)
+LeetCode Problem Counter: **105/200** (as of 5/27/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -394,6 +394,8 @@ None
 
 ---
 ### Day 61: Monday, May 27, 2019
+
+[x] [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 
 ---
 ### Day 62: Tuesday, May 28, 2019
