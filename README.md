@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **105/200** (as of 5/27/19)
+LeetCode Problem Counter: **106/200** (as of 5/28/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -399,6 +399,8 @@ None
 
 ---
 ### Day 62: Tuesday, May 28, 2019
+
+[x] [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 ---
 ### Day 63: Wednesday, May 29, 2019
