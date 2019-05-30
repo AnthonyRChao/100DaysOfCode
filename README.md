@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **106/200** (as of 5/28/19)
+LeetCode Problem Counter: **107/200** (as of 5/29/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -404,6 +404,8 @@ None
 
 ---
 ### Day 63: Wednesday, May 29, 2019
+
+[x] [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
 
 ---
 ### Day 64: Thursday, May 30, 2019
