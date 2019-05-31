@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **107/200** (as of 5/29/19)
+LeetCode Problem Counter: **108/200** (as of 5/30/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -409,6 +409,8 @@ None
 
 ---
 ### Day 64: Thursday, May 30, 2019
+
+[x] [613. Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/)
 
 ---
 ### Day 65: Friday, May 31, 2019
