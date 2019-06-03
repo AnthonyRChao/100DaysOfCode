@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **108/200** (as of 5/30/19)
+LeetCode Problem Counter: **113/200** (as of 6/2/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -415,8 +415,43 @@ None
 ---
 ### Day 65: Friday, May 31, 2019
 
+None
+
 ---
 ### Day 66: Saturday, June 1, 2019
+
+None
+
+---
+### Day 67: Sunday, June 2, 2019
+
+[x] [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)\
+[x] [1069. Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/)\
+[x] [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)\
+[x] [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)\
+[x] [610. Triangle Judgement
+](https://leetcode.com/problems/triangle-judgement/)
+
+---
+### Day 68: Monday, June 3, 2019
+
+---
+### Day 69: Tuesday, June 4, 2019
+
+---
+### Day 70: Wednesday, June 5, 2019
+
+---
+### Day 71: Thursday, June 6, 2019
+
+---
+### Day 72: Friday, June 7, 2019
+
+---
+### Day 73: Saturday, June 8, 2019
+
+---
+### Day 74: Sunday, June 9, 2019
 
 ---
 ### TODO
