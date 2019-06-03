@@ -429,8 +429,8 @@ None
 [x] [1069. Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/)\
 [x] [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)\
 [x] [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)\
-[x] [610. Triangle Judgement
-](https://leetcode.com/problems/triangle-judgement/)
+[x] [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)\
+[x] [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)
 
 ---
 ### Day 68: Monday, June 3, 2019
