@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **115/200** (as of 6/3/19)
+LeetCode Problem Counter: **116/200** (as of 6/3/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -435,7 +435,8 @@ None
 ---
 ### Day 68: Monday, June 3, 2019
 
-[x] [607. Sales Person](https://leetcode.com/problems/sales-person/)
+[x] [607. Sales Person](https://leetcode.com/problems/sales-person/)\
+[x] [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 
 ---
 ### Day 69: Tuesday, June 4, 2019
