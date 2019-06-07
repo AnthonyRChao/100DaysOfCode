@@ -7,7 +7,7 @@ Day-by-day coding progress listed below (mostly LeetCode, with some Coursera and
 [HackerRank Profile](https://www.hackerrank.com/AnthonyChao)
 
 ---
-LeetCode Problem Counter: **116/200** (as of 6/3/19)
+LeetCode Problem Counter: **121/200** (as of 6/6/19)
 
 ---
 ### [LeetCode Learn - Data Structure and Algorithms](https://leetcode.com/explore/learn/)
@@ -441,11 +441,22 @@ None
 ---
 ### Day 69: Tuesday, June 4, 2019
 
+[x] [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)\
+[x] [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)\
+[x] [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)\
+[x] [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+
 ---
 ### Day 70: Wednesday, June 5, 2019
 
+[x] [178. Rank Scores](https://leetcode.com/problems/rank-scores/)\
+[x] [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)\
+[x] [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+
 ---
 ### Day 71: Thursday, June 6, 2019
+
+[x] [1064. Fixed Point](https://leetcode.com/problems/fixed-point/)
 
 ---
 ### Day 72: Friday, June 7, 2019
