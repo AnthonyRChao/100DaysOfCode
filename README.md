@@ -476,6 +476,8 @@ None
 ---
 ### Day 75: Monday, June 10, 2019
 
+[x] [708. Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/)
+
 ---
 ### Day 76: Tuesday, June 11, 2019
 
