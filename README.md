@@ -461,11 +461,32 @@ None
 ---
 ### Day 72: Friday, June 7, 2019
 
+None
+
 ---
 ### Day 73: Saturday, June 8, 2019
 
+None
+
 ---
 ### Day 74: Sunday, June 9, 2019
+
+None
+
+---
+### Day 75: Monday, June 10, 2019
+
+---
+### Day 76: Tuesday, June 11, 2019
+
+---
+### Day 77: Wednesday, June 12, 2019
+
+---
+### Day 78: Thursday, June 13, 2019
+
+---
+### Day 79: Friday, June 14, 2019
 
 ---
 ### TODO
