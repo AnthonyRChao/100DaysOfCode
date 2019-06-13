@@ -481,8 +481,12 @@ None
 ---
 ### Day 76: Tuesday, June 11, 2019
 
+None
+
 ---
 ### Day 77: Wednesday, June 12, 2019
+
+[x] [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/)
 
 ---
 ### Day 78: Thursday, June 13, 2019
