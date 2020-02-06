@@ -488,13 +488,18 @@ None
 
 [x] [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/)
 
----
-### Day 78: Thursday, June 13, 2019
+### Restart
 
 ---
-### Day 79: Friday, June 14, 2019
+### Day 1: Thursday, February 5, 2020
+
+[ ] [TBD]
 
 ---
+### Day 2: Friday, February 6, 2020
+
+[ ] [TBD]
+
 ### TODO
 
 [ ] [46. Permutations](https://leetcode.com/problems/permutations/)\
